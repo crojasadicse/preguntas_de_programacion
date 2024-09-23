@@ -173,3 +173,18 @@
 - C) Una técnica para eliminar redundancias y dependencias anómalas en las tablas.
 - D) Un método para cifrar datos en una base de datos.
 - **Respuesta correcta: A) Una técnica para eliminar redundancias y dependencias anómalas en las tablas.
+- 
+### 24. ¿Cuál es una característica de las relaciones "mucho a muchos" en un Diagrama Entidad-Relación (DER)?
+- A) Pueden ser representadas directamente entre dos entidades.
+- B) Requieren una tabla intermedia para ser implementadas correctamente.
+- C) Ambas tablas deben tener un campo autoincrementable
+- D) Tiene una implementació lógica y no fisica
+- **Respuesta correcta : B)
+ 
+### 25. Cuál de los siguientes tipos de datos no acepta almacenar números decimales en SQL ?
+- A) Decimal
+- B) Float 
+- C) Real
+- D) Int
+- **Respuesta correcta : D) 
+
