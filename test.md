@@ -151,24 +151,25 @@
 - D) Un error de compilación.
 - **Respuesta correcta:** C
 
+
 ### 21. ¿Qué sentencia DDL se utiliza para eliminar una tabla de una base de datos?
-A) DROP
-B) REMOVE
-C) DELETE
-D) TRUNCATE
-Respuesta correcta: A) DROP
+- A) DROP
+- B) REMOVE
+- C) DELETE
+- D) TRUNCATE
+- **Respuesta correcta: A) DROP
  
  
 ### 22. ¿Cuál de las siguientes es una sentencia DML utilizada para modificar registros existentes en una tabla?
-A) UPDATE
-B) ALTER
-C) MODIFY
-D) CHANGE
-Respuesta correcta: A) UPDATE
+- A) UPDATE
+- B) ALTER
+- C) MODIFY
+- D) CHANGE
+- **Respuesta correcta: A) UPDATE
  
 ### 23. ¿Qué es una forma normal en el contexto del modelado de datos?
-A) Un conjunto de reglas que determina cómo se deben accesar a las tablas en una base de datos.
-B) Es la forma correcta o estandarizada de diseñar un diagrama de entidad relacion
-C) Una técnica para eliminar redundancias y dependencias anómalas en las tablas.
-D) Un método para cifrar datos en una base de datos.
-Respuesta correcta: A) Una técnica para eliminar redundancias y dependencias anómalas en las tablas.
+- A) Un conjunto de reglas que determina cómo se deben accesar a las tablas en una base de datos.
+- B) Es la forma correcta o estandarizada de diseñar un diagrama de entidad relacion
+- C) Una técnica para eliminar redundancias y dependencias anómalas en las tablas.
+- D) Un método para cifrar datos en una base de datos.
+- **Respuesta correcta: A) Una técnica para eliminar redundancias y dependencias anómalas en las tablas.
